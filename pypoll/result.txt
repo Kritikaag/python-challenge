@@ -1,0 +1,9 @@
+Election Results
+---------------------
+Total Votes:  1048575
+{"O'Tooley", 'Correy', 'Khan', 'Li'}
+O'Tooley votes count is : 31586 3.01 %
+Correy votes count is : 209046 19.94 %
+Khan votes count is : 661583 63.09 %
+Li votes count is : 146360 13.96 %
+winner is Khan with maximum votes of: 661583
